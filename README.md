@@ -1,1 +1,3 @@
 # Leetcode
+
+Algorithm practice record.
